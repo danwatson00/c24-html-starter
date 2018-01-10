@@ -8,7 +8,7 @@ body {
 
 footer {
     background-color: blueviolet;
-    color: bisque
+    color: bisque;
     text-align: center;
 }
 
@@ -16,10 +16,6 @@ footer {
     display: flex;
     display: -webkit-flex;
     width: 100%;
-}
-
-.flex-section {
-
 }
 
 .flex-item {
