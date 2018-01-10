@@ -6,6 +6,20 @@ body {
     background-color: bisque;
 }
 
+nav ul {
+    display: flex;
+    display: -webkit-flex;
+}
+
+nav li {
+    list-style-type: none;
+    color: purple;
+}
+
+nav a {
+    color: brown;
+}
+
 footer {
     background-color: blueviolet;
     color: bisque
